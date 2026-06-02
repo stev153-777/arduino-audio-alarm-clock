@@ -22,6 +22,8 @@ Planning phase
 |------------|----------|
 | RTC | DS3231 |
 | Audio | DFPlayer Mini |
+|STM32 Nucleo | Prototype|
+|Arduino Nano | Final Version |
 
 ## License
 
