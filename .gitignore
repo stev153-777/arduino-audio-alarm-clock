@@ -2,6 +2,7 @@
 build/
 dist/
 out/
+temp/
 
 # PlatformIO
 .pio/
